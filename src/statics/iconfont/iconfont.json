@@ -1,0 +1,44 @@
+{
+  "id": "1676829",
+  "name": "简书",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "react ",
+  "glyphs": [
+    {
+      "icon_id": "7434422",
+      "name": "加号",
+      "font_class": "jiahao1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "129176",
+      "name": "spinner9",
+      "font_class": "spinner9",
+      "unicode": "e865",
+      "unicode_decimal": 59493
+    },
+    {
+      "icon_id": "49851",
+      "name": "放大镜",
+      "font_class": "41",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "3846021",
+      "name": "铅笔",
+      "font_class": "qianbi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
